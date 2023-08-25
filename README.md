@@ -21,12 +21,12 @@ This bot automates the generation of `/imagine` prompts using ChatGPT, which are
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/60MilesPerHour/MidGPT/tree/24f0a68e0c341a6a923111a2a9213beebb337382
+    git clone https://github.com/60MilesPerHour/MidGPT.git
     ```
 
 2. Navigate to the directory:
     ```bash
-    cd [MidGPT](https://github.com/60MilesPerHour/MidGPT/tree/24f0a68e0c341a6a923111a2a9213beebb337382)
+    cd MidGPT
     ```
 
 3. Install the dependencies:
