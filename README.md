@@ -21,12 +21,12 @@ This bot automates the generation of `/imagine` prompts using ChatGPT, which are
 
 1. Clone the repository:
     ```bash
-    git clone <your-repository-link>
+    git clone https://github.com/60MilesPerHour/MidGPT/tree/24f0a68e0c341a6a923111a2a9213beebb337382
     ```
 
 2. Navigate to the directory:
     ```bash
-    cd <your-repository-name>
+    cd [MidGPT](https://github.com/60MilesPerHour/MidGPT/tree/24f0a68e0c341a6a923111a2a9213beebb337382)
     ```
 
 3. Install the dependencies:
@@ -61,7 +61,7 @@ For a detailed guide on setting up a Discord bot, you can follow this [guide](ht
 
 1. Once everything is set up, run the bot using:
     ```bash
-    python your_bot_script_name.py
+    python MidGPT.py
     ```
 
 2. Once the bot is running, you can use the automation features within your Discord server.
